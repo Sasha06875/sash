@@ -1,0 +1,20 @@
+    body{
+        background-color:green;
+    font-family:monospace;
+    }
+    
+    body p{
+        font-size: 20;
+    }
+    
+    h1{
+        text-align: center;
+        border: blue 4px solid;
+       }
+    
+    img{
+        border: blue 5px double;
+        width: 500;
+        height: 300;
+    }
+    
